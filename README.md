@@ -21,7 +21,7 @@ Time-to-Sale: "How long does it take for a product to sell, and how does this di
 Search-to-Purchase Funnel: "What are users searching for, and how does search volume correlate with sales?"
 
 
-
+<iframe title="Project MarkIt Docs_Final" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDVhMmEyODItYTZiNC00M2JkLWE3NWItYWVjYmFhODAzNzlkIiwidCI6IjZjMDMxZjk0LWM0MDItNDMzYS05MmQyLTJkM2NlODUxNmRhMyIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 2. Data Transformation (ETL) in Power Query
